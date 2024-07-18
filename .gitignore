@@ -239,7 +239,7 @@ docker-compose.yml
 launch.json
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,macos,linux
 app/logging_conf.json
-.db.env.example
+# .db.env.example
 .dockerignore
-.env.example
+# .env.example
 .python-version
