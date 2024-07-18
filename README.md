@@ -1,6 +1,7 @@
 <h1 align="center">
   Python FastAPI Boilerplate with PostgreSQL
 </h1>
+
 ## Overview
 
 `Python FastAPI Boilerplate with PostgreSQL` is a boilerplate that can serve as a base for FastAPI with PostgreSQL.
