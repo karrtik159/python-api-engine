@@ -226,7 +226,7 @@ cython_debug/
 .hide
 .idea
 /database/init_mssql.sql
-docker-compose.yml
+#docker-compose.yml
 .backup
 .fleet
 
@@ -238,7 +238,7 @@ docker-compose.yml
 .vscode/*
 launch.json
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,macos,linux
-app/logging_conf.json
+#app/logging_conf.json
 # .db.env.example
 .dockerignore
 # .env.example
